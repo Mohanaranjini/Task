@@ -1,0 +1,38 @@
+<books>
+    <book>
+        <title>Pride and Prejudice</title>
+        <author>Jane Austen</author>
+        <published_year>1813</published_year>
+        <price>7.99</price>
+    </book>
+    <book>
+        <title>The Secret</title>
+        <author>Rhonda Byrne</author>
+        <published_year>2006</published_year>
+        <price>9.95</price>
+    </book>
+    <book>
+        <title>The Alchemist</title>
+        <author>Paulo Coelho</author>
+        <published_year>1988</published_year>
+        <price>9.99</price>
+    </book>
+    <book>
+        <title>Man's Search for Meaning</title>
+        <author>Viktor E. Frankl</author>
+        <published_year>1946</published_year>
+        <price>11.95</price>
+    </book>
+    <book>
+        <title>The 7 Habits of Highly Effective People</title>
+        <author>Stephen R. Covey</author>
+        <published_year>1989</published_year>
+        <price>14.99</price>
+    </book>
+    <book>
+        <title>The Power of Now: A Guide to Spiritual Enlightenment</title>
+        <author>Eckhart Tolle</author>
+        <published_year>1997</published_year>
+        <price>12.99</price>
+    </book>
+</books>
